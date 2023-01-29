@@ -1,4 +1,4 @@
-<img style=" display= block" align="right" alt="coding" width="400" src="https://imgs.search.brave.com/9FXuJ0oIkshRLWh8pW6dnWD4KgzbVCWe_zhN-5aYaHY/rs:fit:496:347:1/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vdmVjdG9y/cy93ZWItZGV2ZWxv/cG1lbnQtdmVjdG9y/LWlkOTYwNTMwMDgy/P2s9NiZtPTk2MDUz/MDA4MiZzPTE3MDY2/N2Emdz0wJmg9WXJk/NFZJcDQ3QVFZQXNw/akVrMkExbDR6cmdP/MHpDaWJVT05RQTBz/TUJJdz0">
+<img style=" display= block" align="right" alt="coding" width="1000" height="300" src="https://imgs.search.brave.com/bAoemFVKEt2dzbOMVdXc5fyjcRJJWdXGloxL0N6veDQ/rs:fit:500:320:1/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL0w4SzYy/aVREa3pHWDYvZ2lw/aHkuZ2lm.gif">
 <h1 align="center">Hi 👋, I'm Anshul Rana</h1>
 <h3 align="center">A passionate full stack web developer and competitive programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/sO28tee7YdXiAxl4T_xK1EaPqwOTBvuVxPSlgl2SuGA/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UxL2Yz/LzQxL2UxZjM0MTNi/ZjUwMzYwNDU3MTMz/NDEzOTRmNjE3MjI1/LmdpZg.gif">
