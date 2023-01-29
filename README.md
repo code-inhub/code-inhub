@@ -54,13 +54,13 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
     width="70" height="70" /> </a>
-    <p>&nbsp;<img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=code-inhub&show_icons=true&locale=en" alt="code-inhub" />
-</p>
+   
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs" width="70" height="70" />
-
+ <p>&nbsp;<img align="right"
+    src="https://github-readme-stats.vercel.app/api?username=code-inhub&show_icons=true&locale=en" alt="code-inhub" />
+</p>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
