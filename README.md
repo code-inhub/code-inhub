@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))[
-](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Anshul Rana</h1>
 <h3 align="center">A passionate full stack web developer and competitive programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/sO28tee7YdXiAxl4T_xK1EaPqwOTBvuVxPSlgl2SuGA/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UxL2Yz/LzQxL2UxZjM0MTNi/ZjUwMzYwNDU3MTMz/NDEzOTRmNjE3MjI1/LmdpZg.gif">
