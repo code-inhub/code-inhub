@@ -39,7 +39,7 @@
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70" /> </a>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="70" height="70" /> </a>
+      alt="bootstrap" width="70" height="70" /> </a></p>
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -52,9 +52,7 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
-    width="70" height="70" /> </a>
-   
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+    width="70" height="70" /> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs" width="70" height="70" />
   <p><img align="right"
