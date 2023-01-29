@@ -40,12 +40,13 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="70" height="70" /> </a>
+  <p><img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=code-inhub&show_icons=true&locale=en&layout=compact"
+    alt="code-inhub" /></p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="70" height="70" /></a>
-<p><img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=code-inhub&show_icons=true&locale=en&layout=compact"
-    alt="code-inhub" /></p>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript" width="70" height="70" /> </a>
