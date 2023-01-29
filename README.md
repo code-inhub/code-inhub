@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://imgs.search.brave.com/9FXuJ0oIkshRLWh8pW6dnWD4KgzbVCWe_zhN-5aYaHY/rs:fit:496:347:1/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vdmVjdG9y/cy93ZWItZGV2ZWxv/cG1lbnQtdmVjdG9y/LWlkOTYwNTMwMDgy/P2s9NiZtPTk2MDUz/MDA4MiZzPTE3MDY2/N2Emdz0wJmg9WXJk/NFZJcDQ3QVFZQXNw/akVrMkExbDR6cmdP/MHpDaWJVT05RQTBz/TUJJdz0))
 
 <h1 align="center">Hi 👋, I'm Anshul Rana</h1>
 <h3 align="center">A passionate full stack web developer and competitive programmer from India</h3>
