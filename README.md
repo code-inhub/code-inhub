@@ -16,13 +16,13 @@
 <p align="left">
   <a href="https://twitter.com/code_inhub" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="code_inhub" height="70" width="70" /></a>
+      alt="code_inhub" height="60" width="60" /></a>
   <a href="https://linkedin.com/in/theanshulrana" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="theanshulrana" height="60" width="60" /></a>
   <a href="https://www.codechef.com/users/anshul_rana" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshul_rana" height="70"
-      width="70" /></a>
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshul_rana" height="60"
+      width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
