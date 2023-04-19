@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/theanshulrana" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="theanshulrana" height="45" width="45" /></a>
-  <a href="https://www.codechef.com/users/anshul_rana" target="blank"><img align="center"
+  <a href="https://www.codechef.com/users/ninja96" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshul_rana" height="45"
       width="45" /></a>
 </p>
